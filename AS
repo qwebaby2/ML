@@ -1,6 +1,5 @@
 clear
 clc
-%% 生成数据集
 %遗传参数
 population_size = 120;              % 种群大小
 chromosome_size = 32;               % 染色体长度(天线阵列数量)
